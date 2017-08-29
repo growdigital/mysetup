@@ -22,3 +22,6 @@
       * SublimeLinter
       * SublimeLinter-eslint
       * SublimeLinter-csslint
+
+Deflist
+: test
