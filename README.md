@@ -2,7 +2,14 @@
 
 * Admin
   * Email
-  * Hosting
+    * FastMail
+     * Email aliases
+       * wildcard@mydomain.fastmail.fm - for all mailing lists
+       * contact@growdigital.org - public facing email
+       * figureitout! - personal email  * Hosting
+    * Domain name registration: iwantmyname.com
+    * Static site hosting: Netlify
+    * WordPress hosting: DigitalOcean
 * Development
   * Sublime Text
     * Plugins
@@ -30,8 +37,9 @@
      * Save to Pocket
      * uBlock Origin
      * Vue.js devtools
-* Apps
+* Desktop Apps
  * Resilio Sync
  * nvAlt
- * SimpleNote
  * Pocket
+* Mobile apps
+ * SimpleNote
