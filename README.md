@@ -3,7 +3,7 @@
 * Admin
   * Email
   * Hosting
-* Coding
+* Development
   * Sublime Text
     * Plugins
       * Package Control
@@ -22,6 +22,16 @@
       * SublimeLinter
       * SublimeLinter-eslint
       * SublimeLinter-csslint
-
-Deflist
-: test
+ * Chrome browser
+   * Extensions
+     * ColorZilla
+     * Lighthouse
+     * Save to OmniFocus
+     * Save to Pocket
+     * uBlock Origin
+     * Vue.js devtools
+* Apps
+ * Resilio Sync
+ * nvAlt
+ * SimpleNote
+ * Pocket
