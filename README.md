@@ -37,9 +37,18 @@
      * Save to Pocket
      * uBlock Origin
      * Vue.js devtools
+* Hardware
+  * Office
+    * MacBook Air 13 inch
+    * Samsung P2450H 24-inch monitor
+    * Microsoft 500 v2.0 mouse
+    * Apple wireless keyboard
+  * Mobile
+    * iPhone 6
+  
 * Desktop Apps
- * Resilio Sync
- * nvAlt
- * Pocket
+  * Resilio Sync
+  * nvAlt
+  * Pocket
 * Mobile apps
- * SimpleNote
+  * SimpleNote
